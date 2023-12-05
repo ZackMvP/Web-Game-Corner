@@ -1,0 +1,1120 @@
+.pemesanan,
+.pemesanan * {
+  box-sizing: border-box;
+}
+.pemesanan {
+  background: #712323;
+  width: 1920px;
+  height: 1080px;
+  position: relative;
+}
+.group-10 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-40 {
+  background: #dbc8ac;
+  width: 305.4px;
+  height: 652px;
+  position: absolute;
+  left: calc(50% - 788px);
+  top: 214px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-402 {
+  background: #dbc8ac;
+  width: 305.4px;
+  height: 652px;
+  position: absolute;
+  left: calc(50% - 470.6px);
+  top: 214px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-403 {
+  background: #dbc8ac;
+  width: 305.4px;
+  height: 652px;
+  position: absolute;
+  left: calc(50% - 153.2px);
+  top: 214px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-404 {
+  background: #dbc8ac;
+  width: 305.4px;
+  height: 652px;
+  position: absolute;
+  left: calc(50% - -164.2px);
+  top: 214px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-405 {
+  background: #dbc8ac;
+  width: 305.4px;
+  height: 652px;
+  position: absolute;
+  left: calc(50% - -481.6px);
+  top: 214px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-41 {
+  background: #dbc8ac;
+  width: 1575px;
+  height: 108px;
+  position: absolute;
+  left: calc(50% - 788px);
+  top: 214px;
+  box-shadow: inset 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.waktu {
+  color: #712323;
+  text-align: center;
+  font: 700 48px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 172px;
+  top: 214px;
+  width: 305px;
+  height: 108px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ps-5 {
+  color: #712323;
+  text-align: center;
+  font: 700 48px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 489px;
+  top: 214px;
+  width: 306px;
+  height: 108px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.xbox {
+  color: #712323;
+  text-align: center;
+  font: 700 48px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 807px;
+  top: 214px;
+  width: 306px;
+  height: 108px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pc {
+  color: #712323;
+  text-align: center;
+  font: 700 48px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 1124px;
+  top: 214px;
+  width: 306px;
+  height: 108px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ddr {
+  color: #712323;
+  text-align: center;
+  font: 700 48px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 1442px;
+  top: 214px;
+  width: 306px;
+  height: 108px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+._08-00-09-00 {
+  color: #000000;
+  text-align: center;
+  font: 700 20px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 193px;
+  top: 390px;
+  width: 264px;
+  height: 23px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+._09-15-10-15 {
+  color: #000000;
+  text-align: center;
+  font: 700 20px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 193px;
+  top: 475px;
+  width: 264px;
+  height: 23px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+._10-30-11-30 {
+  color: #000000;
+  text-align: center;
+  font: 700 20px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 193px;
+  top: 556px;
+  width: 264px;
+  height: 23px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+._11-45-12-45 {
+  color: #000000;
+  text-align: center;
+  font: 700 20px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 193px;
+  top: 637px;
+  width: 264px;
+  height: 23px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+._13-00-14-00 {
+  color: #000000;
+  text-align: center;
+  font: 700 20px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 193px;
+  top: 713px;
+  width: 264px;
+  height: 23px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+._14-15-15-15 {
+  color: #000000;
+  text-align: center;
+  font: 700 20px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 193px;
+  top: 793px;
+  width: 264px;
+  height: 23px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pc2 {
+
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 88px;
+  position: absolute;
+  left: 1233px;
+  top: 374px;
+}
+.pc3 {
+  color: #ffffff;
+  text-align: center;
+  font: 400 20px "RussoOne-Regular", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.xbox-2 {
+
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 101px;
+  position: absolute;
+  left: 978px;
+  top: 374px;
+}
+.xbox-22 {
+  color: #ffffff;
+  text-align: center;
+  font: 400 20px "RussoOne-Regular", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.xbox-1 {
+
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 841px;
+  top: 374px;
+}
+.xbox-12 {
+  color: #ffffff;
+  text-align: center;
+  font: 400 20px "RussoOne-Regular", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.xbox-3 {
+
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 101px;
+  position: absolute;
+  left: 978px;
+  top: 456px;
+}
+.xbox-13 {
+
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 841px;
+  top: 456px;
+}
+.xbox-4 {
+
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 101px;
+  position: absolute;
+  left: 978px;
+  top: 536px;
+}
+.xbox-14 {
+
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 841px;
+  top: 536px;
+}
+.xbox-5 {
+
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 101px;
+  position: absolute;
+  left: 978px;
+  top: 618px;
+}
+.xbox-15 {
+
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 841px;
+  top: 618px;
+}
+.xbox-6 {
+
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 101px;
+  position: absolute;
+  left: 978px;
+  top: 692px;
+}
+.xbox-16 {
+
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 841px;
+  top: 692px;
+}
+.xbox-7 {
+
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 101px;
+  position: absolute;
+  left: 978px;
+  top: 774px;
+}
+.xbox-17 {
+
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 841px;
+  top: 774px;
+}
+.ps-5-1 {
+
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 101px;
+  position: absolute;
+  left: 523px;
+  top: 374px;
+}
+.ps-5-12 {
+  color: #ffffff;
+  text-align: center;
+  font: 400 20px "RussoOne-Regular", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ps-5-23 {
+
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 101px;
+  position: absolute;
+  left: 523px;
+  top: 456px;
+}
+.ps-5-24 {
+
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 101px;
+  position: absolute;
+  left: 523px;
+  top: 536px;
+}
+.ps-5-25 {
+
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 101px;
+  position: absolute;
+  left: 523px;
+  top: 618px;
+}
+.ps-5-26 {
+
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 101px;
+  position: absolute;
+  left: 523px;
+  top: 692px;
+}
+.ps-5-27 {
+
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 101px;
+  position: absolute;
+  left: 523px;
+  top: 774px;
+}
+.ps-5-2 {
+
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 101px;
+  position: absolute;
+  left: 660px;
+  top: 374px;
+}
+.ps-5-22 {
+  color: #ffffff;
+  text-align: center;
+  font: 400 20px "RussoOne-Regular", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ps-5-28 {
+
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 101px;
+  position: absolute;
+  left: 660px;
+  top: 456px;
+}
+.ps-5-29 {
+
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 101px;
+  position: absolute;
+  left: 660px;
+  top: 536px;
+}
+.ps-5-30 {
+
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 101px;
+  position: absolute;
+  left: 660px;
+  top: 618px;
+}
+.ps-5-31 {
+
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 101px;
+  position: absolute;
+  left: 660px;
+  top: 692px;
+}
+.ps-5-32 {
+
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 101px;
+  position: absolute;
+  left: 660px;
+  top: 774px;
+}
+.pad {
+
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 101px;
+  position: absolute;
+  left: 1543px;
+  top: 374px;
+}
+.pad2 {
+  color: #ffffff;
+  text-align: center;
+  font: 400 20px "RussoOne-Regular", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pc4 {
+
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 88px;
+  position: absolute;
+  left: 1233px;
+  top: 456px;
+}
+.pad3 {
+
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 101px;
+  position: absolute;
+  left: 1543px;
+  top: 456px;
+}
+.pc5 {
+
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 88px;
+  position: absolute;
+  left: 1233px;
+  top: 536px;
+}
+.pad4 {
+
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 101px;
+  position: absolute;
+  left: 1543px;
+  top: 536px;
+}
+.pc6 {
+
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 88px;
+  position: absolute;
+  left: 1233px;
+  top: 618px;
+}
+.pad5 {
+
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 101px;
+  position: absolute;
+  left: 1543px;
+  top: 618px;
+}
+.pc7 {
+
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 88px;
+  position: absolute;
+  left: 1233px;
+  top: 692px;
+}
+.pad6 {
+
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 101px;
+  position: absolute;
+  left: 1543px;
+  top: 692px;
+}
+.pc8 {
+
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 88px;
+  position: absolute;
+  left: 1233px;
+  top: 774px;
+}
+.pad7 {
+
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 101px;
+  position: absolute;
+  left: 1543px;
+  top: 774px;
+}
+._0 {
+  color: #ffffff;
+  text-align: center;
+  font: 400 20px "RussoOne-Regular", sans-serif;
+  position: absolute;
+  left: 66px;
+  top: 836px;
+  width: 13px;
+  height: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-43 {
+  background: #712323;
+  width: 48px;
+  height: 53px;
+  position: absolute;
+  left: 44px;
+  top: 803px;
+}
+.header {
+  width: 1920px;
+  height: 180px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.rectangle-1 {
+  background: linear-gradient(
+    180deg,
+    rgba(237, 219, 192, 1) 0%,
+    rgba(237, 219, 192, 1) 100%
+  );
+  width: 1920px;
+  height: 180px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle-2 {
+  background: #ffcd93;
+  width: 1920px;
+  height: 180px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.home {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 619px;
+  top: 128px;
+}
+.home2 {
+  color: #ffffff;
+  text-align: center;
+  font: 700 20px "Montserrat-Bold", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pemesanan2 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 748px;
+  top: 128px;
+}
+.pemesanan3 {
+  color: #ffffff;
+  text-align: center;
+  font: 700 20px "Montserrat-Bold", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 748px;
+  top: 128px;
+}
+.fasilitas {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 947px;
+  top: 128px;
+}
+.fasilitas2 {
+  color: #ffffff;
+  text-align: center;
+  font: 700 20px "Montserrat-Bold", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.support {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 1265px;
+  top: 128px;
+}
+.support2 {
+  color: #ffffff;
+  text-align: center;
+  font: 700 20px "Montserrat-Bold", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.account {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 1429px;
+  top: 128px;
+}
+.account2 {
+  color: #ffffff;
+  text-align: center;
+  font: 700 20px "Montserrat-Bold", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.filkom-1 {
+  width: 591px;
+  height: 224px;
+  position: absolute;
+  left: -13px;
+  top: -22px;
+}
+.image-3 {
+  width: 835px;
+  height: 95px;
+  position: absolute;
+  left: 801px;
+  top: 30px;
+}
+.searchbar-tulung-state-2 {
+  background: #dbc8ac;
+  border-radius: 24px;
+  padding: 8px 24px 8px 24px;
+  width: 46px;
+  height: 39px;
+  position: absolute;
+  left: 1603px;
+  top: 125px;
+  box-shadow: inset 0px 0px 10px 0px rgba(0, 0, 0, 0.16);
+}
+.group-17 {
+  position: absolute;
+  inset: 0;
+}
+.search-icon-2 {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 32px;
+  top: 9px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.account3 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 1115px;
+  top: 128px;
+}
+.ulasan {
+  color: #ffffff;
+  text-align: center;
+  font: 700 20px "Montserrat-Bold", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.in-case-need-footer {
+  width: 1920px;
+  height: 50px;
+  position: absolute;
+  left: 0px;
+  top: 1029px;
+  overflow: hidden;
+}
+.rectangle-37 {
+  background: #eddbc0;
+  width: 1920px;
+  height: 50px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+._2023-2023-kelompok-imk-all-rights-reserved {
+  color: #000000;
+  text-align: center;
+  font: 400 30px "Cornerstone-Regular", sans-serif;
+  position: absolute;
+  left: calc(50% - 528px);
+  top: 9px;
+  width: 1057px;
+  height: 54px;
+}
+
+
+.searchbar-container form {
+  display: flex;
+  position: absolute;
+  
+  left: 1605px;
+  top: 135px;
+}
+
+.search-input {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  transition: width 0.5s ease-in-out;
+  cursor: pointer;
+  border: none;
+  background: #d3c1a6;
+  border-radius: 100px; /* Nilai ini menentukan seberapa melengkung sudutnya */
+}
+
+.search-input:focus {
+  width: 200px; /* Adjust the width as needed */
+  cursor: text;
+}
+
+.search-btn {
+  background: none;
+  border: none;
+  padding: 0;
+}
+
+.search-icon {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 5px;
+  top: 5px;
+  transform-origin: 0 0;
+}
+
+/* Initial state when not focused */
+.searchbar-container:hover .search-input,
+.searchbar-container .search-input:focus {
+  width: 200px; /* Adjust the width as needed */
+}
+
+.sanpe {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 748px;
+  top: 128px;
+}
+.sanpe2 {
+  color: #ffffff;
+  text-align: center;
+  font: 700 20px "Montserrat-Bold", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.device-button {
+  background: rgba(147, 147, 147, 0.25); /* Warna latar dengan transparansi */
+  border-radius: 30px;                    /* Border bulat */
+  border-style: solid;                    /* Gaya border solid */
+  border-color: #000000;                  /* Warna border hitam */
+  border-width: 1px;                      /* Lebar border 1px */
+  padding: 10px;                          /* Padding di sekitar teks */
+  display: inline-flex;                   /* Tampilan flex, inline agar sesuai dengan alur teks atau elemen lain */
+  flex-direction: row;                    /* Arah flex horizontal */
+  gap: 10px;                              /* Jarak antara elemen di dalam tombol */
+  align-items: center;                    /* Menyelaraskan item di tengah secara vertikal */
+  justify-content: center;                /* Menyelaraskan item di tengah secara horizontal */
+  cursor: pointer;                        /* Cursor berubah menjadi pointer saat mouse di atasnya */
+  text-align: center;                     /* Teks rata tengah */
+  text-decoration: none;                  /* Tidak ada dekorasi teks (menghilangkan underline) */
+  font-size: 16px;                        /* Ukuran font */
+  transition: all 0.3s;                   /* Transisi untuk efek hover */
+  color: black;                           /* Warna teks */
+}
+
+.device-button:hover {
+  background: rgba(147, 147, 147, 0.5); /* Meningkatkan transparansi saat di-hover */
+  color: white;                          /* Mengubah warna teks menjadi putih */
+}
+
+.device-button.pressed {
+  background: rgb(143, 48, 48); /* Warna baru setelah ditekan */
+}
+
+
+#tombolPesan {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: none; /* Ini akan diubah menjadi 'block' melalui JavaScript ketika tombol perlu ditampilkan */
+  padding: 10px 20px; /* Padding untuk membuat tombol lebih besar */
+  background-color: #007bff; /* Warna latar tombol, contoh biru */
+  color: white; /* Warna teks */
+  border: none; /* Menghilangkan border */
+  border-radius: 5px; /* Membuat sudut tombol agak bulat */
+  font-size: 16px; /* Ukuran font */
+  cursor: pointer; /* Mengubah cursor menjadi pointer saat mouse berada di atas tombol */
+  transition: background-color 0.3s; /* Transisi untuk efek hover */
+}
+
+#tombolPesan:hover {
+  background-color: #0056b3; /* Mengubah warna latar saat di-hover */
+}
+
+.pilihan-terpilih {
+  background-color: #ffcd93; /* Atau warna lain sebagai indikator pemilihan */
+}
+
+
+.tombol-sumbit {
+  background: #d3c1a6;
+  width: 220px;
+  height: 50px;
+  position: absolute;
+  left: 1485px;
+  top: 900px;
+  overflow: hidden;
+}
+.submit {
+  color: #ffffff;
+  text-align: center;
+  font: 700 40px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.tombol-sumbit:hover {
+  background: rgba(172, 148, 148, 0.5); /* Meningkatkan transparansi saat di-hover */
+  color: white;                          /* Mengubah warna teks menjadi putih */
+}
+
+#popupContainer {
+  display: none;
+  position: fixed; 
+  z-index: 1000; 
+  left: 800px; 
+  top: 540px;
+  transform: translate(-50%, -50%);
+  /* Optional: Atur ukuran popup jika perlu */
+  width: 300px; /* Contoh ukuran */
+}
+

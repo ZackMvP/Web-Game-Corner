@@ -1,0 +1,689 @@
+.fasilitas-scroll,
+.fasilitas-scroll * {
+  box-sizing: border-box;
+}
+.fasilitas-scroll {
+  background: #ffffff;
+  width: 1920px;
+  height: 1080px;
+  position: relative;
+}
+.body {
+  background: #dd5353;
+  width: 1920px;
+  height: 914px;
+  position: absolute;
+  left: calc(50% - 960px);
+  top: 166px;
+  overflow-y: auto;
+}
+.group-8 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-34 {
+  background: #ffd78a;
+  border-radius: 20px;
+  width: 475px;
+  height: 655px;
+  position: absolute;
+  left: 472px;
+  top: 900px;
+}
+._10-4 {
+  color: #1e1e1e;
+  text-align: center;
+  font: 700 31px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 711px;
+  top: 1369px;
+}
+.t-45-i-rn-1-bhi-wc-j-uz-st-6-ufg-bv-o-1 {
+  border-radius: 40px;
+  width: 419px;
+  height: 419px;
+  position: absolute;
+  left: 500px;
+  top: 928px;
+}
+.star-1 {
+  width: 41px;
+  height: 41px;
+  position: absolute;
+  left: 650px;
+  top: 1359px;
+  overflow: visible;
+}
+.rectangle-35 {
+  background: #d9d9d9;
+  border-radius: 40px;
+  width: 411px;
+  height: 116px;
+  position: absolute;
+  left: 508px;
+  top: 1411px;
+}
+.marvel-s-spider-man-miles-morales-adalah-sebuah-permainan-video-yang-dikembangkan-oleh-insomniac-games-dan-diterbitkan-oleh-sony {
+  color: #1e1e1e;
+  text-align: center;
+  font: 700 16px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 556px;
+  top: 1432px;
+  width: 308px;
+  height: 114px;
+}
+.group-6 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-342 {
+  background: #ffd78a;
+  border-radius: 20px;
+  width: 475px;
+  height: 655px;
+  position: absolute;
+  left: 472px;
+  top: 1584px;
+}
+.t-45-i-rn-1-bhi-wc-j-uz-st-6-ufg-bv-o-12 {
+  border-radius: 40px;
+  width: 419px;
+  height: 419px;
+  position: absolute;
+  left: 500px;
+  top: 1612px;
+}
+.n-pvgaaj-mcg-n-wwc-bqhy-2-me-9-1 {
+  border-radius: 40px;
+  width: 419px;
+  height: 419px;
+  position: absolute;
+  left: 500px;
+  top: 1612px;
+}
+.star-12 {
+  width: 41px;
+  height: 41px;
+  position: absolute;
+  left: 650px;
+  top: 2043px;
+  overflow: visible;
+}
+._4-5 {
+  color: #1e1e1e;
+  text-align: center;
+  font: 700 31px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 711px;
+  top: 2054px;
+}
+.rectangle-352 {
+  background: #d9d9d9;
+  border-radius: 40px;
+  width: 411px;
+  height: 116px;
+  position: absolute;
+  left: 508px;
+  top: 2095px;
+}
+.forza-horizon-5-adalah-video-game-balap-tahun-2021-yang-dikembangkan-oleh-playground-games-dan-diterbitkan-oleh-xbox-game-studios-permainan-ini-berlatarkan-representasi-fiksi-meksiko {
+  color: #1e1e1e;
+  text-align: center;
+  font: 700 16px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 513px;
+  top: 2107px;
+  width: 394px;
+  height: 114px;
+}
+.group-9 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-343 {
+  background: #ffd78a;
+  border-radius: 20px;
+  width: 475px;
+  height: 655px;
+  position: absolute;
+  left: 974px;
+  top: 1584px;
+  box-shadow: 10px 10px 20px 0px rgba(0, 0, 0, 0.25);
+}
+._9-10 {
+  color: #fffb8f;
+  text-align: center;
+  font: 700 31px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 1182px;
+  top: 1368px;
+}
+.rectangle-353 {
+  background: #d9d9d9;
+  border-radius: 40px;
+  width: 411px;
+  height: 116px;
+  position: absolute;
+  left: 1010px;
+  top: 2095px;
+}
+.ea-sports-fc-24-adalah-game-sepak-bola-terbaru-dari-electronic-arts-yang-menawarkan-pengalaman-bermain-yang-paling-realistis-dan-otentik-game-ini-menggunakan-teknologi-hyper-motion-v-yang-memungkinkan-gerakan-permainan-dan-penampilan-pemain-lebih-alami-dan-dinamis {
+  color: #1e1e1e;
+  text-align: center;
+  font: 700 16px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 1052px;
+  top: 2117px;
+  width: 320px;
+  height: 81px;
+}
+.group-7 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-344 {
+  background: #ffd78a;
+  border-radius: 20px;
+  width: 475px;
+  height: 655px;
+  position: absolute;
+  left: 974px;
+  top: 900px;
+}
+._4-52 {
+  color: #1e1e1e;
+  text-align: center;
+  font: 700 31px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 1212px;
+  top: 1369px;
+}
+.star-13 {
+  width: 41px;
+  height: 41px;
+  position: absolute;
+  left: 1151px;
+  top: 1358px;
+  overflow: visible;
+}
+._4-53 {
+  color: #1e1e1e;
+  text-align: center;
+  font: 700 31px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 1212px;
+  top: 2055px;
+}
+.star-2 {
+  width: 41px;
+  height: 41px;
+  position: absolute;
+  left: 1151px;
+  top: 2044px;
+  overflow: visible;
+}
+.rectangle-354 {
+  background: #d9d9d9;
+  border-radius: 40px;
+  width: 411px;
+  height: 116px;
+  position: absolute;
+  left: 1010px;
+  top: 1411px;
+}
+.counter-strike-2-dirilis-sebagai-pembaruan-update-dari-counter-strike-global-offensive-cs-go-sebagai-versi-baru-atau-penerus-dari-cs-go-counter-strike-2-membawa-sederet-fitur-dan-peningkatan-baru {
+  color: #1e1e1e;
+  text-align: center;
+  font: 700 16px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 1018px;
+  top: 1426px;
+  width: 387px;
+  height: 114px;
+}
+.screengrab-gj-cold-1024-x-576-1 {
+  border-radius: 43px;
+  width: 419px;
+  height: 419px;
+  position: absolute;
+  left: 1002px;
+  top: 1612px;
+}
+.group-11 {
+  position: absolute;
+  inset: 0;
+}
+.photo {
+  width: 975px;
+  height: 559px;
+  position: absolute;
+  left: 473px;
+  top: 130px;
+}
+.rectangle-39 {
+  background: rgba(217, 217, 217, 0);
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.gc-1-1 {
+  border-radius: 20px;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.rectangle-32 {
+  border-radius: 0px;
+  width: 444px;
+  height: 559px;
+  position: absolute;
+  left: 1004px;
+  top: 130px;
+  overflow: visible;
+}
+.fasilitas-game-corner-di-kampus-yang-memiliki-play-station-5-ps-5-adalah-ruang-atau-area-di-kampus-yang-disediakan-khusus-untuk-bermain-video-game-dengan-menggunakan-konsol-ps-5-ini-adalah-fasilitas-yang-dapat-meningkatkan-pengalaman-mahasiswa-dan-anggota-kampus-dalam-hal-hiburan-relaksasi-dan-interaksi-sosial {
+  color: #ffd976;
+  text-align: left;
+  font: 700 30px/30px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 1047px;
+  top: 156px;
+  width: 385px;
+  height: 613px;
+}
+.in-case-need-footer {
+  width: 1920px;
+  height: 50px;
+  position: absolute;
+  left: 1px;
+  top: 2470px;
+  overflow: hidden;
+}
+.rectangle-37 {
+  background: #eddbc0;
+  width: 1920px;
+  height: 50px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+._2023-2023-kelompok-imk-all-rights-reserved {
+  color: #000000;
+  text-align: center;
+  font: 400 30px "Cornerstone-Regular", sans-serif;
+  position: absolute;
+  left: calc(50% - 528px);
+  top: 9px;
+  width: 1057px;
+  height: 54px;
+}
+.image-5 {
+  border-radius: 32px;
+  width: 419px;
+  height: 411px;
+  position: absolute;
+  left: 1002px;
+  top: 1612px;
+}
+.capsule-616-x-353-1 {
+  border-radius: 40px;
+  width: 419px;
+  height: 419px;
+  position: absolute;
+  left: 1006px;
+  top: 928px;
+}
+.permainan {
+  color: #ffd78a;
+  text-align: left;
+  font: 400 64px "Cornerstone-Regular", sans-serif;
+  position: absolute;
+  left: 804px;
+  top: 767px;
+  width: 340px;
+  height: 97px;
+}
+.body2 {
+  background: #712323;
+  width: 1920px;
+  height: 928px;
+  position: absolute;
+  left: calc(50% - 960px);
+  top: 166px;
+  overflow-y: auto;
+}
+._10-42 {
+  color: #ffbd3c;
+  text-align: center;
+  font: 700 31px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 711px;
+  top: 1369px;
+}
+.star-14 {
+  width: 41px;
+  height: 41px;
+  position: absolute;
+  left: 2000px;
+  top: 1359px;
+  overflow: visible;
+}
+.star-15 {
+  width: 41px;
+  height: 41px;
+  position: absolute;
+  left: 650px;
+  top: 2043px;
+  overflow: visible;
+}
+._4-54 {
+  color: #ffbd3c;
+  text-align: center;
+  font: 700 31px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 711px;
+  top: 2054px;
+}
+._4-55 {
+  color: #ffbd3c;
+  text-align: center;
+  font: 700 31px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 1212px;
+  top: 1369px;
+}
+.star-16 {
+  width: 41px;
+  height: 41px;
+  position: absolute;
+  left: 1151px;
+  top: 1358px;
+  overflow: visible;
+}
+._4-56 {
+  color: #ffbd3c;
+  text-align: center;
+  font: 700 31px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 1212px;
+  top: 2055px;
+}
+.star-22 {
+  width: 41px;
+  height: 41px;
+  position: absolute;
+  left: 1151px;
+  top: 2044px;
+  overflow: visible;
+}
+.photo2 {
+  width: 975px;
+  height: 559px;
+  position: absolute;
+  left: 473px;
+  top: 130px;
+  box-shadow: 20px 20px 20px 0px rgba(0, 0, 0, 0.25);
+}
+.gc-1-12 {
+  border-radius: 20px;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  box-shadow: 40px 40px 40px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-322 {
+  border-radius: 0px;
+  width: 444px;
+  height: 559px;
+  position: absolute;
+  left: 1004px;
+  top: 130px;
+  overflow: visible;
+}
+.image-6 {
+  width: 719px;
+  height: 720px;
+  position: absolute;
+  left: 144px;
+  top: 817px;
+}
+.frame {
+  width: 345px;
+  height: 102px;
+  position: absolute;
+  left: calc(50% - 172px);
+  top: 772px;
+  overflow: visible;
+}
+.header {
+  width: 1920px;
+  height: 180px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.rectangle-1 {
+  background: linear-gradient(
+    180deg,
+    rgba(237, 219, 192, 1) 0%,
+    rgba(237, 219, 192, 1) 100%
+  );
+  width: 1920px;
+  height: 180px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle-2 {
+  background: #ffcd93;
+  width: 1920px;
+  height: 180px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.home {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 619px;
+  top: 128px;
+}
+.home2 {
+  color: #ffffff;
+  text-align: center;
+  font: 700 20px "Montserrat-Bold", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pemesanan {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 748px;
+  top: 128px;
+}
+.pemesanan2 {
+  color: #ffffff;
+  text-align: center;
+  font: 700 20px "Montserrat-Bold", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.fasilitas {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 947px;
+  top: 128px;
+}
+.fasilitas2 {
+  color: #ffffff;
+  text-align: center;
+  font: 700 20px "Montserrat-Bold", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.support {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 1265px;
+  top: 128px;
+}
+.support2 {
+  color: #ffffff;
+  text-align: center;
+  font: 700 20px "Montserrat-Bold", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.account {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 1429px;
+  top: 128px;
+}
+.account2 {
+  color: #ffffff;
+  text-align: center;
+  font: 700 20px "Montserrat-Bold", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.filkom-1 {
+  width: 591px;
+  height: 224px;
+  position: absolute;
+  left: -13px;
+  top: -22px;
+}
+.image-3 {
+  width: 835px;
+  height: 95px;
+  position: absolute;
+  left: 801px;
+  top: 30px;
+}
+.group-17 {
+  position: absolute;
+  inset: 0;
+}
+.search-icon-2 {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 32px;
+  top: 9px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.searchbar-container form {
+  display: flex;
+  position: absolute;
+  
+  left: 1605px;
+  top: 135px;
+}
+
+.search-input {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  transition: width 0.5s ease-in-out;
+  cursor: pointer;
+  border: none;
+  background: #d3c1a6;
+  border-radius: 100px; /* Nilai ini menentukan seberapa melengkung sudutnya */
+}
+
+.search-input:focus {
+  width: 200px; /* Adjust the width as needed */
+  cursor: text;
+}
+
+.search-btn {
+  background: none;
+  border: none;
+  padding: 0;
+}
+
+.search-icon {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 5px;
+  top: 5px;
+  transform-origin: 0 0;
+}
+
+/* Initial state when not focused */
+.searchbar-container:hover .search-input,
+.searchbar-container .search-input:focus {
+  width: 200px; /* Adjust the width as needed */
+}
+.account3 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 1115px;
+  top: 128px;
+}
+.ulasan {
+  color: #ffffff;
+  text-align: center;
+  font: 700 20px "Montserrat-Bold", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

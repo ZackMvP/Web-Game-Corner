@@ -758,7 +758,8 @@
   text-align: center;
   font: 700 40px "Montserrat-Bold", sans-serif;
   position: absolute;
-  left: 42px;
+  left: 40px;
+  top: 3px;
   display: flex;
   align-items: center;
   justify-content: center;

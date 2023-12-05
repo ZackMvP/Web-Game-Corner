@@ -9,6 +9,9 @@ function myFunction() {
     popupContainer.onclick = function() {
         popupContainer.style.display = 'none';
     };
+    setTimeout(function() {
+      window.location.href = "../review/index.html";
+    }, 800);
 }
 document.querySelectorAll(".device-button").forEach(button => {
     button.addEventListener("click", function() {
